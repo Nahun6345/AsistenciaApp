@@ -171,3 +171,4 @@ C:\AsistenciaApp\backend\obj\Release\net9.0\refint\backend.dll
 C:\AsistenciaApp\backend\obj\Release\net9.0\backend.pdb
 C:\AsistenciaApp\backend\obj\Release\net9.0\backend.genruntimeconfig.cache
 C:\AsistenciaApp\backend\obj\Release\net9.0\ref\backend.dll
+C:\AsistenciaApp\backend\obj\Release\net9.0\backend.sourcelink.json
